@@ -13,7 +13,7 @@ python: 3.6
 
 script:
 #  - coverage run sayHello.py
-  - python3 /src/sayHello.py
+  - python3 /src/Tracing.py
 
 
 # Push the results back to codecov
